@@ -14,6 +14,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: #d4fff2;
 
     div.logo img {
       width: 10rem;
