@@ -3,3 +3,35 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html, body {
+  height: 100%;
+}
+
+.body-flex {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.grow {
+  flex: 1 0 auto;
+  height: 100%;
+}
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-space-between {
+  justify-content: space-between;
+}

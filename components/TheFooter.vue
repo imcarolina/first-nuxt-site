@@ -9,6 +9,7 @@
 footer {
   padding: 5%;
   background: #000;
+  flex-shrink: 0;
 
   p {
     color: #fff;

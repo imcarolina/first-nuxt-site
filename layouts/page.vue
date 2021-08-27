@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="body-flex">
     <TheHeader />
-    <div class="container">
+    <div class="container grow">
       <Nuxt />
     </div>
     <TheFooter />
